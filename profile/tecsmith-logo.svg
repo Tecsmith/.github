@@ -3,8 +3,8 @@
     <title>Tecsmith</title>
 	<style>
 		@media (prefers-color-scheme: dark) {
-			#r, #g, #b { fill: none; stroke: #EEE; }
-			#t, #s { stroke-width: 40; stroke: #EEE; fill: none; }
+			#r, #g, #b { fill: none; stroke: #FFF9E6; }
+			#t, #s { stroke-width: 40; stroke: #FFF9E6; fill: none; }
 		}
 	</style>
     <defs>
