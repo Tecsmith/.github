@@ -1,0 +1,1 @@
+![Tecsmith](tecsmith-logo.svg)
